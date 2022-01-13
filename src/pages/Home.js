@@ -1,6 +1,7 @@
 import React from 'react';
 import DishCreator from '../components/DishCreator/DishCreator';
 import DishList from '../components/DishList/DishList';
+import './pages.css';
 
 const Home = () => {
     return (

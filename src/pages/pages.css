@@ -1,0 +1,16 @@
+@media screen and (min-width: 270px) {
+    .home {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        height: 95vh;
+        justify-content: space-between;
+        margin: 0 15px;
+    }
+
+    .home-title {
+        font-family: 'Cookie', cursive;
+        font-size: 4rem;
+        margin: 25px 0;
+    }
+}
