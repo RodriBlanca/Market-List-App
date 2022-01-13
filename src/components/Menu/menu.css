@@ -1,0 +1,16 @@
+@media screen and (min-width: 270px) {
+    .menu-options,
+    .menu-input {
+        display: none;
+    }
+
+    .menu-label {
+        border: 2px solid #ff7900;
+        border-radius: 50%;
+        height: 45px;
+        position: absolute;
+        right: 15px;
+        top: 15px;
+        width: 45px;
+    }
+}
